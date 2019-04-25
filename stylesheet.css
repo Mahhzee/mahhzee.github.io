@@ -3,7 +3,7 @@ width: 1080px;
 height: 820px;
 background: /* transparent white over */
 repeating-linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%), /* inset your image below */
-url(./img/me.jpg);
+url(mewhite5.github.io/me.jpg);
 background-position: center;
 background-size: cover;
 margin: 0;
